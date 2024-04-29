@@ -16,4 +16,4 @@ Este painel administrativo oferece uma interface intuitiva e personalizável par
 
 ## Desenvolvimento do Projeto
 
-O projeto de criação do painel administrativo para treinamento do grid através do Odin Project seguiu um roteiro estruturado para garantir que os participantes desenvolvessem habilidades sólidas em HTML, CSS e JavaScript, com foco específico no uso do sistema de grid para criar layouts responsivos e flexíveis. Aqui está uma visão geral de como o projeto pode ter sido abordado:
+O projeto de criação do painel administrativo para treinamento do grid através do Odin Project seguiu um roteiro estruturado para garantir que os participantes desenvolvessem habilidades sólidas em HTML e CSS.
