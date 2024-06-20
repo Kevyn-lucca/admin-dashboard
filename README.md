@@ -14,6 +14,12 @@ Este painel administrativo oferece uma interface intuitiva e personalizável par
 
 - **Configurações:** Opções para personalizar o sistema, configurar preferências, ajustar parâmetros de segurança e muito mais.
 
-## Desenvolvimento do Projeto
+## Tecnologias utilizadas:
 
-O projeto de criação do painel administrativo para treinamento do grid através do Odin Project seguiu um roteiro estruturado para garantir que os participantes desenvolvessem habilidades sólidas em HTML e CSS.
+<ul>
+  <li>JavaScript</li>
+  <li>Css</li>
+  <li>Html</li>
+  <li>Node.js</li>
+  <li>Npm</li>
+</ul>
